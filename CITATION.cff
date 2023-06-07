@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+authors:
+  - family-names: "Monninger"
+    given-names: "Adrian B."
+    orcid: "https://orcid.org/0000-0001-5978-5621"
+title: "A Guide on Solving Non-convex Consumption-Saving Models"
+abstract: This REMARK replicates Druedahl, J. (2021). A guide on solving non-convex consumption-saving models.
+date-released: 2022-09-01
+
+references:
+  - type: article
+    authors:
+      - family-names: "Druedahl"
+        given-names: "Jeppe"
+    title: "A guide on solving non-convex consumption-saving models"
+    doi: 10.1007/s10614-020-10045-x
+    date-released: 2020-10-26
+    publisher:
+        name: Computational Economics
+repository-code: "https://github.com/econ-ark/DurableConsumerType_REMARK"
+
+keywords:
+  - Econ-ARK
+  - DurableConsumerType
+  - Discrete-Choice
+
